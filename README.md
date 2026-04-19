@@ -1,6 +1,6 @@
-# NestJS Boilerplate with PostgreSQL (Raw SQL, No ORM)
+# NestJS Boilerplate
 
-A NestJS boilerplate built with **raw SQL PostgreSQL** approach without ORM. Designed with modular architecture, custom database provider, and modern tooling.
+A NestJS boilerplate. Designed with modular architecture, custom database provider, and modern tooling.
 
 ---
 
