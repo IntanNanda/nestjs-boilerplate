@@ -1,0 +1,17 @@
+node_modules
+npm-debug.log
+dist
+tests
+logs
+.env
+.env.local
+.env.*.local
+coverage
+.git
+.gitignore
+README.md
+PLAN.md
+biome.json
+vitest.config.ts
+tests/vitest.e2e.config.ts
+scripts
