@@ -24,8 +24,8 @@ A NestJS boilerplate. Designed with modular architecture, custom database provid
 
 ## Features
 
-- **Raw SQL PostgreSQL** — Full control over queries without ORM overhead
-- **JWT Authentication** — Custom JWT guard without passport.js
+- **Raw SQL PostgreSQL** — Full control over queries
+- **JWT Authentication** — Custom JWT guard
 - **Global Guards** — `@Public()` decorator for whitelisting endpoints
 - **Auto-validation** — DTOs with Zod schema + custom `ZodValidationPipe`
 - **API Documentation** — Swagger UI with Bearer auth
